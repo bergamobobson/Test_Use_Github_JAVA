@@ -14,6 +14,9 @@ public interface TestInterface {
 	
 	public abstract void decelera();
      
-        void decelera();
+
+     void accelera();
+     void frena();
+
 
 }
