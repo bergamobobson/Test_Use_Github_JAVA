@@ -11,6 +11,7 @@
 public interface TestInterface {
 	
 	public static final int b=0;
+	public static final int ga=3;
 	
 	public abstract void decelera();
      
